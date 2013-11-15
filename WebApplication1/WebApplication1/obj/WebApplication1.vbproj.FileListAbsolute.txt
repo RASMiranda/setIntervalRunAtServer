@@ -1,0 +1,9 @@
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.xml
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+d:\Documents and Settings\mirandaru\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
