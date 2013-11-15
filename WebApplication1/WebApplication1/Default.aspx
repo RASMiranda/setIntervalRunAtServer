@@ -6,7 +6,8 @@
 <head id="Head1" runat="server">
     <script type = "text/javascript">
         function dumb_setInterval() {
-            setInterval(function(){alert('dumb setInterval after 5000ms!');}, 5000);    
+            setInterval(function(){alert('dumb setInterval after 5000ms!');}, 5000);        
+            return false;
         }
     </script>
 </head>
@@ -14,7 +15,7 @@
     <form id="form1" runat="server">
 		<p><asp:ImageButton id="formSrvBtn"
 		    runat="server" 
-		    OnClientClick="dumb_setInterval();"
+		    OnClientClick="return dumb_setInterval();"
 		    AlternateText="This server img button's setInterval does not work!"
 		>			
 		</asp:ImageButton></p>
